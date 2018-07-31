@@ -29,7 +29,7 @@ var conn = mysql.createConnection({
 
 conn.connect();
 
-app.use(express.static('./sub')); // In order to use CSS file // test
+app.use(express.static('./sub')); // In order to use CSS file // testa
 
 // app.use('/script', express.static(__dirname + "./sub/html"));
 
