@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Markazi+Text|Open+Sans');
 
+.form-group{
+    text-align: center;
+}
+
 #nickWrap{
     background-color: white;
     width: 400px;
@@ -27,7 +31,6 @@ h2{
     height: 90%;
     max-width: 95%;
     position: fixed;
-    border: 5px double grey;
 }
 .online-usr{
     height: 70%;

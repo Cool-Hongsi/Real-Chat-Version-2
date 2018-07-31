@@ -27,6 +27,7 @@ body{
        margin: auto;
        font-size: 2em;
        margin-top: 10px;
+       margin-bottom: 50px;
    }
    #link-section p{
        margin: auto;
@@ -47,7 +48,7 @@ body{
    .update-confirm{
        max-width: 380px;
        margin: auto;
-       margin-top: 5rem;
+       margin-top: 3rem;
        max-height: 380px;
        height: 380px;
        box-shadow: 10px 10px #5D6D7E;

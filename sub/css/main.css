@@ -54,7 +54,7 @@ h1, h2 {
 }
 .form{
     padding-top: 5%;
-    height: 100vh;
+    height: 160vh;
     background: linear-gradient(30deg, #EBF5FB, #476777);
 }
 .login-form h2{
