@@ -3,6 +3,8 @@
 // Writer: Sungjun Hong, Yuseon Kang
 // Server.js 
 
+ // testa
+
 var express = require('express');
 var app = express();
 const port = process.env.PORT || 8080;
@@ -29,7 +31,7 @@ var conn = mysql.createConnection({
 
 conn.connect();
 
-app.use(express.static('./sub')); // In order to use CSS file // testa
+app.use(express.static('./sub')); // In order to use CSS file
 
 // app.use('/script', express.static(__dirname + "./sub/html"));
 
