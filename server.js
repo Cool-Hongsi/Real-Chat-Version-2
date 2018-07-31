@@ -3,7 +3,7 @@
 // Writer: Sungjun Hong, Yuseon Kang
 // Server.js 
 
- // testa
+ // test
 
 var express = require('express');
 var app = express();
